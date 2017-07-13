@@ -1,0 +1,11 @@
+body {
+  background-color: #adcbe3;
+  color: inherit;
+  font-family: 'Noto Serif', serif;
+
+  }
+#name{
+  text-align:center;
+  padding: 20 px;
+  font-family:'Great Vibes', cursive;
+}
